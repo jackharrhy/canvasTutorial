@@ -4,7 +4,7 @@ from bottle import *
 from os import getcwd
 
 HOST = 'localhost'
-PORT = '80'
+PORT = '8080'
 DEBUG = True
 
 pageTitles=["Template","Line","Lines","ChangingSize","ChangingColor","CleanThatCode","AddingText","AddingGradientToText","AddingShadows","AddingImg","MinifyCode"]
