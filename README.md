@@ -1,7 +1,7 @@
 canvasTutorial
 ==============
 
-canvasTutorial is small python based web server that runs a few pages that showcase
+canvasTutorial is small python based web server that runs a few pages that showcase the HTML5 canvas element
 
 Version
 -------
