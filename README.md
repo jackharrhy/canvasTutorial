@@ -1,7 +1,11 @@
 canvasTutorial
 ==============
 
-canvasTutorial is small python based web server that runs a few pages that showcase the HTML5 canvas element
+canvasTutorial is small python based web server that runs a few pages that showcase the HTML5 canvas element.
+
+It is also my first GitHub repo.
+
+Main reason I did this is to learn more about Web, Python & Github development.
 
 Version
 -------
